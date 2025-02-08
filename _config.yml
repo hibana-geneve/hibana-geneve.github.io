@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Hibana
 
 # Your name to show in the footer
-author: Some Person
+author: Massimo Berardi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /path/to/image
 
 
 #####################################
@@ -50,27 +50,30 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "hibana.geneve@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  #github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
+  whatsapp: +41795091903
+  whatsapp: +41795091903
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: hibana4l
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +41795091903
+  telephone: +41786698500
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: mass_brd
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -93,14 +96,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -134,7 +137,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#FFF8EA"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
