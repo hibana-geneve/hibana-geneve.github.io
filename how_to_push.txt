@@ -15,6 +15,14 @@ replace all "Art Studio" or "Art Studio » index" by "Hibana"
 
 replace all "https://ikgpv2.webwave.dev" by "https://hibana-geneve.github.io/"
 
+reconnect "https://hibana-geneve.github.io/lib/" files (Liste_dons_materiels, QR-Bill-Dons, Statuts_Hibana_signes)
+
+remove "Budget_final.webp" from files 
+
+commit and push
+
+delete /old_files if all good
+
 
 
 
